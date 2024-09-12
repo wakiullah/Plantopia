@@ -10,10 +10,10 @@ import 'swiper/css/pagination';
 
 // import required modules
 import { Navigation, Pagination, Mousewheel, Keyboard } from 'swiper/modules';
-import Container from './Container';
+import Container from '../Container';
 import { Link } from 'react-router-dom';
-import Button from './UI/Button';
-import AboutCard from './UI/AboutCard';
+import Button from '../UI/Button';
+
 
 export default function Hero() {
     return (

@@ -8,6 +8,9 @@ export default {
         black: "#222222",
         light: "#777777",
       },
+      backgroundSize: {
+        120: "120%",
+      },
     },
   },
   plugins: [],
