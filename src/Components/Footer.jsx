@@ -1,7 +1,10 @@
 import React from 'react'
+import Container from './Container'
 
 export default function Footer() {
-  return (
-    <div>Footer</div>
-  )
+    return (
+        <Container>
+            {/* files here */}
+        </Container>
+    )
 }
