@@ -8,6 +8,7 @@ import ReviewHome from '../Components/Home/ReviewHome'
 import HomeOfferSection from '../Components/Home/HomeOfferSection'
 import SpecialProducts from '../Components/Home/SpecialProducts'
 import LatestNews from '../Components/Home/LatestNews'
+import EmailSubcription from '../Components/Home/EmailSubcription'
 
 export default function Home() {
     return (
@@ -21,6 +22,7 @@ export default function Home() {
             <HomeOfferSection />
             <SpecialProducts />
             <LatestNews />
+            <EmailSubcription />
         </div>
     )
 }
