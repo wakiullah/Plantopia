@@ -4,7 +4,8 @@ import Container from './Container'
 export default function Footer() {
     return (
         <Container>
-            {/* files here */}
-        </Container>
+<div>
+    <div></div>
+    </div>        </Container>
     )
 }
