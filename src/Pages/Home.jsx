@@ -11,6 +11,7 @@ import LatestNews from '../Components/Home/LatestNews'
 import EmailSubcription from '../Components/Home/EmailSubcription'
 
 export default function Home() {
+console.log('hello')
     return (
         <div>
             <Hero />
